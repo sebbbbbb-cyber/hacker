@@ -1,8 +1,8 @@
 {
-	"token": "Token", 
+	"token": "MTEzNjAzNzQwMTY0NzY2NTIzNA.GUTSHn.pmjZjrIR9wp68BmG0clT977HrZAv-QaK2IWdxw", 
 	"prefix": "!", "command_cooldown_time": 30, 
 
-	"loghook": "https://discordapp.com/api/webhooks/1105189152628158585/0gU-A80873sYOhlcUUsZqJx39FaGXy6qzy4pjLuRp77ZChgtDtrTkl7QNuZrKYMvFAoM", 
+	"loghook": "https://discord.com/api/webhooks/1136039685433610250/tg_mCpymgylV-Nohx8AKtLfsCY1OmhsZmxDDw-wCi_WcWSUUMazeUO9SzW7oeLHnkBgX", 
 	"logs_output_type": "console/webhook", 
 
 	"nuke_channels_name": "crash3d-by-anarchy", 
